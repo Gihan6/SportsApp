@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_version">1.0.5</string>
+    <string name="contact_email">admin@teamalkaicer.com</string>
+    <string name="copyright_text">Copyright @ Team Alkaicer</string>
+    <!--API -->
+    <!-- copy your api url from php admin dashboard & paste bellow string tag -->
+    <string name="api_url">https://uiap.teamalkaicer.com/api/</string>
+    <!-- copy your api key from php admin dashboard & paste bellow string tag -->
+    <string name="api_key">yad79o74qr68im2g2glppk5b</string>
+    <string name="terms_url">https://uiap.teamalkaicer.com/terms/</string>
+
+    <string name="app_name">AlkaicerTV</string>
+    <!--app_title for main navigation & home title-->
+    <string name="app_title">القيصر تي في</string>
+    <string name="featured_tv_channels">القنوات الحديثة</string>
+    <string name="latest_movie">أخر الأفلام</string>
+    <string name="latest_tv_series">أخر المسلسلات</string>
+    <string name="more">المزيد</string>
+    <string name="movie">أفلام</string>
+    <string name="live_tv">قنوات</string>
+    <string name="tv_series">مسلسلات</string>
+    <string name="country">الدولة</string>
+    <string name="genre">التصنيف</string>
+    <string name="fav">المفضل</string>
+    <string name="search">بحث</string>
+    <string name="no_item_found">لم نتوفر علي نتيجة البحث</string>
+    <string name="cast_n_crew">طاقم العمل</string>
+    <string name="related_movie">فيلم مميز</string>
+    <string name="signin">تسجيل الدخول</string>
+    <string name="reset">استعادة كلمة السر</string>
+    <string name="register">تسجيل</string>
+    <string name="full_name">الأسم بالكامل</string>
+    <string name="email">البريد الألكتروني</string>
+    <string name="password">كلمة السر</string>
+    <string name="save">حفظ</string>
+    <string name="director">المخرج</string>
+    <string name="description">الوصف</string>
+    <string name="comments">التعليقات</string>
+    <string name="your_comments">تعليقك</string>
+    <string name="add_comments">اضافة تعليق</string>
+    <string name="no_internet">لا يوجد اتصال بالانترنت</string>
+    <string name="copyright">الحقوق</string>
+    <string name="contact_us">تواصل معنا</string>
+    <string name="fetch_error">غير قادر على جلب البيانات</string>
+    <string name="login_first">يجب عليك التسجيل اولاً</string>
+    <string name="comment_empty">لا يمكن اضافة تعليق فارغ</string>
+    <string name="error_toast">هناك خطأ ما , حاول لاحقاً</string>
+
+    <string-array name="nav_item_name">
+        <item>الرئيسية</item>
+        <item>الأفلام</item>
+        <item>القنوات</item>
+        <item>المسلسلات</item>
+        <item>التصنيف</item>
+        <item>البلد</item>
+        <item>الملف الشخصي</item>
+        <item>المفضلة</item>
+        <item>تسجيل الخروج</item>
+        <item>الأعدادات</item>
+    </string-array>
+    <string-array name="nav_item_name_2">
+        <item>الرئيسية</item>
+        <item>الأفلام</item>
+        <item>القنوات</item>
+        <item>المسلسلات</item>
+        <item>التصنيف</item>
+        <item>البلد</item>
+        <item>تسجيل الدخول</item>
+        <item>الأعدادات</item>
+    </string-array>
+
+
+    <string-array name="nav_item_image">
+        <item>outline_home_24</item>
+        <item>outline_movie_24</item>
+        <item>outline_live_tv_24</item>
+        <item>outline_local_movies_24</item>
+        <item>outline_folder_24</item>
+        <item>outline_outlined_flag_24</item>
+        <item>outline_person_24</item>
+        <item>outline_favorite_border_24</item>
+        <item>outline_lock_24</item>
+        <item>outline_settings_24</item>
+    </string-array>
+
+
+    <string-array name="nav_item_image_2">
+        <item>outline_home_24</item>
+        <item>outline_movie_24</item>
+        <item>outline_live_tv_24</item>
+        <item>outline_local_movies_24</item>
+        <item>outline_folder_24</item>
+        <item>outline_outlined_flag_24</item>
+        <item>outline_lock_24</item>
+        <item>outline_settings_24</item>
+    </string-array>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+
+    <!-- Example settings for Data & Sync -->
+
+    <!-- Example settings for Notifications -->
+
+    <string name="title_activity_player">قمت بمشاهدته</string>
+    <string name="title_activity_item_show">عرض ما تم مشاهدته</string>
+    <string name="title_activity_details">تفاصيل نشاطك</string>
+    <string name="title_activity_reply">قمت بالتعليق عليه</string>
+
+</resources>
